@@ -25,7 +25,7 @@ namespace inst::ui {
         this->infoRect = Rectangle::New(0, 95, 1280, 60, COLOR("#001717FF"));
         this->botRect = Rectangle::New(0, 660, 1280, 60, COLOR("#001717FF"));
         if (inst::config::sadMode) {
-            this->titleImage = Image::New(-113, 0, "romfs:/images/logo.png");
+            this->titleImage = Image::New(0, 0, "romfs:/images/logo.png");
             this->appVersionText = TextBlock::New(367, 49, "v" + inst::config::appVersion, 22);
         }
         else {
