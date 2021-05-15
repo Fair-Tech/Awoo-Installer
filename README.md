@@ -1,7 +1,7 @@
 # FairTech Installer
 A Minimal NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
 
-![FairTech Installer Main Menu](https://i.imgur.com/eL1iZ0Q.jpg)
+![FairTech Installer Main Menu](gitimages/Screenshot.jpg)
 
 ## Features
 - Installs NSP/NSZ/XCI/XCZ files and split NSP/XCI files from your SD card
@@ -22,7 +22,7 @@ If you want to do other things like manage installed tickets, titles, and user a
 ## Thanks to
 Huntereb, HookedBehemoth, and everyone who made [Awoo Installer](https://github.com/Huntereb/Awoo-Installer) possible.
 
-## Donations:
+## Donations
 Donations are never expected, but always appreciated! You can support me via [CashApp](https://cash.app/$FairTech1) or [PayPal](https://www.paypal.com/paypalme/NicholasFair1). 
 
 <img src="https://github.com/Fair-Tech/FairTech-AIO-Switch/raw/main/images/cashappqr.jpg" width="300" />  <img src="https://github.com/Fair-Tech/FairTech-AIO-Switch/raw/main/images/paypalqr.jpg" width ="300" /> 
