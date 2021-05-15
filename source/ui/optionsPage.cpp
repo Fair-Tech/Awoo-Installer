@@ -22,9 +22,9 @@ namespace inst::ui {
         this->SetBackgroundColor(COLOR("#670000FF"));
         if (std::filesystem::exists(inst::config::appDir + "/background.png")) this->SetBackgroundImage(inst::config::appDir + "/background.png");
         else this->SetBackgroundImage("romfs:/images/background.jpg");
-        this->topRect = Rectangle::New(0, 0, 1280, 94, COLOR("#170909FF"));
-        this->infoRect = Rectangle::New(0, 95, 1280, 60, COLOR("#17090980"));
-        this->botRect = Rectangle::New(0, 660, 1280, 60, COLOR("#17090980"));
+        this->topRect = Rectangle::New(0, 0, 1280, 94, COLOR("#001717FF"));
+        this->infoRect = Rectangle::New(0, 95, 1280, 60, COLOR("#001717FF"));
+        this->botRect = Rectangle::New(0, 660, 1280, 60, COLOR("#001717FF"));
         if (inst::config::sadMode) {
             this->titleImage = Image::New(-113, 0, "romfs:/images/logo.png");
             this->appVersionText = TextBlock::New(367, 49, "v" + inst::config::appVersion, 22);

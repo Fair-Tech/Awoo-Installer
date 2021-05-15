@@ -38,8 +38,8 @@ namespace inst::ui {
         this->SetBackgroundColor(COLOR("#670000FF"));
         if (std::filesystem::exists(inst::config::appDir + "/background.png")) this->SetBackgroundImage(inst::config::appDir + "/background.png");
         else this->SetBackgroundImage("romfs:/images/background.jpg");
-        this->topRect = Rectangle::New(0, 0, 1280, 94, COLOR("#170909FF"));
-        this->botRect = Rectangle::New(0, 659, 1280, 61, COLOR("#17090980"));
+        this->topRect = Rectangle::New(0, 0, 1280, 94, COLOR("#001717FF"));
+        this->botRect = Rectangle::New(0, 659, 1280, 61, COLOR("#001717FF"));
         if (inst::config::sadMode) {
             this->titleImage = Image::New(-113, 0, "romfs:/images/logo.png");
             this->appVersionText = TextBlock::New(480, 49, "v" + inst::config::appVersion, 22);
