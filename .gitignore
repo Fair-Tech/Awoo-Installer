@@ -4,3 +4,5 @@
 build
 .vscode
 include/Plutonium
+*.zip
+*.nroold
