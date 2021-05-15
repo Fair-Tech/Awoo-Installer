@@ -144,7 +144,7 @@
             "boost_mode": "Enable \"boost mode\" during installations",
             "ask_delete": "Ask to delete original files after installation",
             "auto_update": "Check for updates to FairTech Installer automatically",
-            "gay_option": "Remove Art?",
+            "sad_option": "Remove Art?",
             "sig_url": "Signature patches source URL: ",
             "language": "Language: ",
             "check_update": "Check for updates to FairTech Installer",
