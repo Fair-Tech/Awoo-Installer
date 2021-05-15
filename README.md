@@ -4,7 +4,6 @@ A Minimal NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
 ![FairTech Installer Main Menu](https://i.imgur.com/eL1iZ0Q.jpg)
 
 ## Features
-=======
 - Installs NSP/NSZ/XCI/XCZ files and split NSP/XCI files from your SD card
 - Installs NSP/NSZ/XCI/XCZ files over LAN or USB from tools such as [NS-USBloader](https://github.com/developersu/ns-usbloader)
 - Installs NSP/NSZ/XCI/XCZ files over the internet by URL or Google Drive
@@ -15,7 +14,6 @@ A Minimal NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
 - Just werks
 
 ## Why?
-=======
 Because Goldleaf tends to not "Just werk" when installing NSP files. I wanted a *free software* solution that installs, looks pretty, and doesn't make me rip my hair out whenever I want to put software on my Nintendo Switch. Turtle Installer does exactly that. It installs software. That's about it!
 
 
