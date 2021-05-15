@@ -25,4 +25,4 @@ Huntereb, HookedBehemoth, and everyone who made [Awoo Installer](https://github.
 ## Donations:
 Donations are never expected, but always appreciated! You can support me via [CashApp](https://cash.app/$FairTech1) or [PayPal](https://www.paypal.com/paypalme/NicholasFair1). 
 
-<img src="images/cashappqr.jpg" width="300" />  <img src="images/paypalqr.jpg" width ="300" /> 
+<img src="https://github.com/Fair-Tech/FairTech-AIO-Switch/raw/main/images/cashappqr.jpg" width="300" />  <img src="https://github.com/Fair-Tech/FairTech-AIO-Switch/raw/main/images/paypalqr.jpg" width ="300" /> 
