@@ -21,3 +21,8 @@ If you want to do other things like manage installed tickets, titles, and user a
 
 ## Thanks to
 Huntereb, HookedBehemoth, and everyone who made [Awoo Installer](https://github.com/Huntereb/Awoo-Installer) possible.
+
+## Donations:
+Donations are never expected, but always appreciated! You can support me via [CashApp](https://cash.app/$FairTech1) or [PayPal](https://www.paypal.com/paypalme/NicholasFair1). 
+
+<img src="images/cashappqr.jpg" width="300" />  <img src="images/paypalqr.jpg" width ="300" /> 
