@@ -42,7 +42,7 @@ namespace inst::ui {
         this->botRect = Rectangle::New(0, 659, 1280, 61, COLOR("#17090980"));
         if (inst::config::sadMode) {
             this->titleImage = Image::New(-113, 0, "romfs:/images/logo.png");
-            this->appVersionText = TextBlock::New(367, 49, "v" + inst::config::appVersion, 22);
+            this->appVersionText = TextBlock::New(480, 49, "v" + inst::config::appVersion, 22);
         }
         else {
             this->titleImage = Image::New(0, 0, "romfs:/images/logo.png");
@@ -52,8 +52,8 @@ namespace inst::ui {
         this->butText = TextBlock::New(10, 678, "main.buttons"_lang, 24);
         this->butText->SetColor(COLOR("#FFFFFFFF"));
         this->optionMenu = pu::ui::elm::Menu::New(0, 95, 1280, COLOR("#67000000"), 94, 6);
-        this->optionMenu->SetOnFocusColor(COLOR("#00000033"));
-        this->optionMenu->SetScrollbarColor(COLOR("#170909FF"));
+        this->optionMenu->SetOnFocusColor(COLOR("#00EDFF33"));
+        this->optionMenu->SetScrollbarColor(COLOR("#00FFEFFF"));
         this->installMenuItem = pu::ui::elm::MenuItem::New("main.menu.sd"_lang);
         this->installMenuItem->SetColor(COLOR("#FFFFFFFF"));
         this->installMenuItem->SetIcon("romfs:/images/icons/micro-sd.png");
@@ -160,14 +160,6 @@ namespace inst::ui {
                 default:
                     break;
             }
-        }
-        if (Down & KEY_X) {
-            this->awooImage->SetVisible(false);
-            this->eggImage->SetVisible(true);
-        }
-        if (Up & KEY_X) {
-            this->eggImage->SetVisible(false);
-            if (!inst::config::sadMode) this->awooImage->SetVisible(true);
         }
     }
 }

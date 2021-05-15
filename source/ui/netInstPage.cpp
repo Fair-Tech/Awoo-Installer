@@ -38,7 +38,7 @@ namespace inst::ui {
         this->butText = TextBlock::New(10, 678, "", 24);
         this->butText->SetColor(COLOR("#FFFFFFFF"));
         this->menu = pu::ui::elm::Menu::New(0, 156, 1280, COLOR("#FFFFFF00"), 84, (506 / 84));
-        this->menu->SetOnFocusColor(COLOR("#00000033"));
+        this->menu->SetOnFocusColor(COLOR("#00EDFF33"));
         this->menu->SetScrollbarColor(COLOR("#17090980"));
         this->infoImage = Image::New(453, 292, "romfs:/images/icons/lan-connection-waiting.png");
         this->Add(this->topRect);
