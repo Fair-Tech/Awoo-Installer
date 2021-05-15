@@ -1,7 +1,7 @@
 # FairTech Installer
 A Minimal NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
 
-![FairTech Installer Main Menu](gitimages/screenshot.jpg)
+![FairTech Installer Main Menu](gitimages/Screenshot.jpg)
 
 ## Features
 - Installs NSP/NSZ/XCI/XCZ files and split NSP/XCI files from your SD card
