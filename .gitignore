@@ -7,3 +7,4 @@ include/Plutonium
 *.zip
 *.nroold
 RELEASE
+*.old
